@@ -1,6 +1,6 @@
-$(function()) {
-    'use strict';
+'use strict';
+$(function() {
    $('.carousel').carousel({
-    interval: 5000
-}) 
+    interval: 1000
+}); 
 });
